@@ -1,0 +1,39 @@
+{
+  "certificates": [
+    {
+      "title": "Deep Learning for Computer Vision",
+      "organization": "NPTEL",
+      "date": "November 2024"
+    },
+    {
+      "title": "Excel Basics for Data Analysis",
+      "organization": "IBM via Coursera",
+      "date": "May 2024"
+    },
+    {
+      "title": "Power BI & Tableau ",
+      "organization": "Imarticus Learning",
+      "date": "April 2024"
+    },
+    {
+      "title": "Python for Data Science",
+      "organization": "NPTEL",
+      "date": "April 2024"
+    },
+    {
+      "title": "Data Visualization and Dashboard with Excel and Cognos",
+      "organization": "IBM via Coursera",
+      "date": "March 2024"
+    },
+    {
+      "title": "Introduction to Data Analysis",
+      "organization": "IBM via Coursera",
+      "date": "December 2024"
+    },
+    {
+      "title": "Problem Solving through C programming",
+      "organization": "NPTEL",
+      "date": "May 2023"
+    }
+  ]
+}

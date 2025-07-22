@@ -1,0 +1,12 @@
+{
+  "experience": [
+    {
+      "id": 1,
+      "company": "Atlanwa",
+      "position": "Web developer Intern",
+      "duration": "November 24 - December 24",
+      "description": "Developed a full-stack HR management module with dynamic user roles, enabling CRUD operations for employee profiles, automated leave application workflows, and integrated meeting scheduling—reducing manual overhead and improving operational efficiency.",
+      "technologies": ["HTML","CSS","Python","Flask","MySQL"]
+    }
+  ]
+}

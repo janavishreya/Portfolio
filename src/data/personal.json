@@ -1,0 +1,19 @@
+{
+  "name": "Janavi Shreya",
+  "title": "Full Stack Developer",
+  "subtitle": "Turning complex ideas into smart, scalable products",
+  "bio": "AI-driven full-stack developer passionate about building smart, scalable solutions. From intelligent UIs to production-ready ML apps, I turn ideas into impact using React, Node.js, Python, and more.",
+  "location": "Chennai, India",
+  "email": "shreyarajesh028@gmail.com",
+  "social": {
+    "github": "https://github.com/janavishreya",
+    "linkedin": "https://www.linkedin.com/in/janavi-shreya"
+  },
+   "certificates": [
+    "Deep Learning for Computer Vision - NPTEL",
+    "Excel Basics for Data Analysis - IBM",
+    "Python for Data Science - NPTEL",
+    "Power BI and Tableau - Imarticus Learning",
+    "Data Visualization with Excel and Cognos - IBM"
+  ]
+}

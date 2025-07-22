@@ -1,0 +1,41 @@
+{
+  "categories": [
+    {
+      "name": "Languages",
+      "skills": [
+        { "name": "Python", "level": 95, "icon": "🐍" },
+        { "name": "C", "level": 80, "icon": "🖥️" },
+        { "name": "C++", "level": 80, "icon": "⏳" },
+        { "name": "SQL", "level": 75, "icon": "🐘" },
+        { "name": "JavaScript", "level": 70, "icon": "🟦" },
+        { "name": "Java", "level": 70, "icon": "☕" },
+        { "name": "HTML", "level": 85, "icon": "🌐" },
+        { "name": "CSS", "level": 85, "icon": "🎨" }
+      ]
+    },
+    {
+      "name": "Frameworks",
+      "skills": [
+        { "name": "Pandas", "level": 80, "icon": "🟢" },
+        { "name": "Numpy", "level": 80, "icon": "🔢" },
+        { "name": "Scikit-Learn", "level": 70, "icon": "📈" },
+        { "name": "Matplotlib", "level": 75, "icon": "📊" },
+        { "name": "Flask", "level": 90, "icon": "🔗" },
+        { "name": "Node.js", "level": 80, "icon": "🚀" },
+        { "name": "React", "level": 80, "icon": "⚛️" }
+      ]
+    },
+    {
+      "name": "Tools",
+      "skills": [
+        { "name": "Git", "level": 85, "icon": "📝" },
+        { "name": "Power BI", "level": 80, "icon": "☁️" },
+        { "name": "Figma", "level": 80, "icon": "🎨" },
+        { "name": "Excel", "level": 85, "icon": "▲" },
+        { "name": "Tableau", "level": 80, "icon": "📊" },
+        {"name": "Powerpoint", "level": 92, "icon": "📂" },
+        { "name": "MongoDb", "level": 80, "icon": "🍃" }
+      ]
+    }
+  ]
+}

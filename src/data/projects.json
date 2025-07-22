@@ -1,0 +1,59 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "AI Timetable Generator ",
+      "description":"Built a full-stack, conflict-free Timetable Generator using React, Node.js, and MongoDB, featuring secure login, creation/editing capabilities, history tracking, and intelligent scheduling logic that achieved 95% constraint satisfaction through alternate period allocation and balanced weekly distribution.",
+      "image": "/ai_timetable_generator.jpeg",
+      "technologies": ["React", "Node.js", "MongoDB", "Stripe", "Tailwind CSS"],
+      "githubUrl": "https://github.com/janavishreya/AI_Powered_Timetable_Generator",
+      "featured": true
+    },
+    {
+      "id": 2,
+      "title": "Couse Recommendation using collaborative filtering",
+      "description": "Developed a full-stack Course Recommendation System using Flask, MySQL, and TensorFlow, integrating a trained collaborative filtering model (.h5) with real-time user data to deliver personalized top-5 suggestions with 90%+ training accuracy via neural embeddings and dynamic backend logic.",
+      "image":"/course_recommendation.jpeg",
+      "technologies": ["Next.js", "TypeScript", "Prisma", "PostgreSQL", "Socket.io"],
+      "githubUrl": "https://github.com/janavishreya/Course_Recommendation_using_Collaborative_Filtering",
+      "featured": true
+    },
+    {
+      "id": 3,
+      "title": "Face Recognition System",
+      "description": "Built a real-time face recognition system with integrated emotion and age prediction using OpenCV, Keras, and PyAgender—leveraging deep learning models for live webcam analysis and annotated visual feedback in Python.",
+      "image": "/face_recoginition.jpeg",
+      "technologies": ["React", "Chart.js", "OpenWeather API", "Mapbox"],
+      "githubUrl": "https://github.com/janavishreya/Face_Recognition_System",
+      "featured": true
+    },
+    {
+      "id": 4,
+      "title": "E-commerce comparison website",
+      "description": "Created a product comparison web app using HTML, CSS, Flask, and MySQL, featuring category-based navigation and platform-wise price listings to enhance user decision-making with smart product recommendations.",
+      "image": "/e_commerce_comparision.jpeg",
+      "technologies": ["HTML", "CSS","Python", "Flask", "MySQL"],
+      "githubUrl": "https://github.com/janavishreya/E-Commerce_comparison_website",
+      "featured": true
+    },
+    {
+      "id": 5,
+      "title": "HR Dashboard",
+      "description": "HR analytics solution simulating typical HR metrics, demographics, and compensation trends. It features both summary dashboards and deep-dive employee records, powered by a synthetic dataset and enriched with calculated metrics",
+      "image": "/hr_dashboard.jpeg",
+      "technologies": ["HTML", "CSS", "Javascript", "Python", "Flask", "MySQL"],
+      "githubUrl": "https://github.com/SAMSDP/HR_Dashboard",
+      "featured": false
+    },
+    {
+      "id": 6,
+      "title": "Extracted chat UI",
+      "description": "A sleek web-based interface built to visualize and export WhatsApp chat data. It allows users to upload extracted chat files and generate well-formatted PDF transcripts of conversations.",
+      "image": "/extracted_chat.jpeg",
+      "technologies": ["HTML","Python", "Flask"],
+      "githubUrl": "https://github.com/SAMSDP/Extracted_chat_UI",
+      "featured": false
+    }
+
+  ]
+}
